@@ -1,4 +1,4 @@
-*.log
 .DS_Store
-nbproject/
-.vscode/
+Thumbs.db
+*.log
+.env
